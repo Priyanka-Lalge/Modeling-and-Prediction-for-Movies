@@ -1,6 +1,6 @@
 # Modeling-and-Prediction-for-Movies
 
-This project details our analysis of the movie dataset that contains information from Rotten Tomatos and IMDB for a random sample of movies. 
+This project details our analysis of the movie dataset that contains information from Rotten Tomatoes and IMDB for a random sample of movies. 
 The purpose of this project is to solve the below research questions.
 <pre>
 • Is an Oscar winning actor or actress in the cast associated with the IMDB rating of the movie?
